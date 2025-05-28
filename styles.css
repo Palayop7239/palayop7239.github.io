@@ -107,7 +107,7 @@ li {
     padding: 20px;
     border: 1px solid black;
     text-align: center;
-    
+    font-size: 2rem;
 }
 
 .project-image img {
