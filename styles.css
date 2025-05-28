@@ -63,7 +63,9 @@ ul {
   font-family: "Montserrat", sans-serif;
   color: white;
 }
-
+.Cascadia {
+  font-family: "Cascadia Code", sans-serif;
+}
 li {
   font-family: "DM Sans", sans-serif;
 }
