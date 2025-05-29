@@ -170,6 +170,10 @@ li {
   font-size: 20px;
 }
 
+.EasterEggsReminder {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
 /* tell nobody about that hehe */
 .bottom-button {
   position: absolute;
